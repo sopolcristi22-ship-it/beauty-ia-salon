@@ -1,0 +1,8 @@
+streamlit
+requests
+
+
+numpy
+qrcode
+pillow
+stripe
