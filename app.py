@@ -4,7 +4,7 @@ import urllib.parse
 # ⚠️ ÎNLOCUIEȘTE AICI cu link-ul tău real generat din contul tău Stripe:
 # (Mergi în Stripe -> Payment Links -> Creează un link de abonament lunar și lipește-l în loc la cel de jos)
 
-LINK_PLATA_STRIPE = "https//stripe.com
+LINK_PLATA_STRIPE = "https//stripe.com"
 # 1. Configurare servicii salvate în sesiune
 if "servicii_salon" not in st.session_state:
     st.session_state.servicii_salon = {
